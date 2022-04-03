@@ -50,6 +50,7 @@ const Profile = () => {
               >
                 SEARCH
               </button>
+ <DetailsProfile data={data} repositories={repositories} />
             </span>
           </div>
         </div>
